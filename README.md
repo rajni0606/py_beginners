@@ -51,3 +51,4 @@ File Name | Description
 4. Add a comment to your `.py` file stating it's purpose.
 5. Give your file a meaningful name related to your file.
 6. Create issues for ideas you do not know how to solve.
+7. Please do meaningful work.
